@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: 6800f61183c2fee4a979dd3fecc799ad
+timeCreated: 1497573893
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: be_r_index01
+    100002: be_r_middle01
+    100004: be_r_pinky01
+    100006: be_r_ring01
+    100008: be_r_thumb01
+    100010: bn_r_index01
+    100012: bn_r_index02
+    100014: bn_r_index03
+    100016: bn_r_index04
+    100018: bn_r_middle01
+    100020: bn_r_middle02
+    100022: bn_r_middle03
+    100024: bn_r_middle04
+    100026: bn_r_pinky01
+    100028: bn_r_pinky02
+    100030: bn_r_pinky03
+    100032: bn_r_pinky04
+    100034: bn_r_ring01
+    100036: bn_r_ring02
+    100038: bn_r_ring03
+    100040: bn_r_ring04
+    100042: bn_r_thumb01
+    100044: bn_r_thumb02
+    100046: bn_r_thumb03
+    100048: bn_r_wrist01
+    100050: controlCurves01
+    100052: Extract6
+    100054: globalControl01
+    100056: globalScale01
+    100058: HandsFW02
+    100060: joints01
+    100062: mesh01
+    100064: //RootNode
+    400000: be_r_index01
+    400002: be_r_middle01
+    400004: be_r_pinky01
+    400006: be_r_ring01
+    400008: be_r_thumb01
+    400010: bn_r_index01
+    400012: bn_r_index02
+    400014: bn_r_index03
+    400016: bn_r_index04
+    400018: bn_r_middle01
+    400020: bn_r_middle02
+    400022: bn_r_middle03
+    400024: bn_r_middle04
+    400026: bn_r_pinky01
+    400028: bn_r_pinky02
+    400030: bn_r_pinky03
+    400032: bn_r_pinky04
+    400034: bn_r_ring01
+    400036: bn_r_ring02
+    400038: bn_r_ring03
+    400040: bn_r_ring04
+    400042: bn_r_thumb01
+    400044: bn_r_thumb02
+    400046: bn_r_thumb03
+    400048: bn_r_wrist01
+    400050: controlCurves01
+    400052: Extract6
+    400054: globalControl01
+    400056: globalScale01
+    400058: HandsFW02
+    400060: joints01
+    400062: mesh01
+    400064: //RootNode
+    4300000: HandsFW02
+    4300002: Extract6
+    7400000: Hand_r_Open01
+    7400002: Hand_r_Fist01
+    7400004: Hand_r_Grip01
+    9500000: //RootNode
+    13700000: Extract6
+    13700002: HandsFW02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Hand_r_Open01
+      takeName: Take 001
+      firstFrame: 3
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: globalControl01
+        weight: 1
+      - path: globalControl01/globalScale01
+        weight: 1
+      - path: globalControl01/globalScale01/controlCurves01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01/bn_r_index02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01/bn_r_index02/bn_r_index03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01/bn_r_index02/bn_r_index03/bn_r_index04
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01/bn_r_index02/bn_r_index03/bn_r_index04/be_r_index01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01/bn_r_middle02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01/bn_r_middle02/bn_r_middle03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01/bn_r_middle02/bn_r_middle03/bn_r_middle04
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01/bn_r_middle02/bn_r_middle03/bn_r_middle04/be_r_middle01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01/bn_r_pinky02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01/bn_r_pinky02/bn_r_pinky03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01/bn_r_pinky02/bn_r_pinky03/bn_r_pinky04
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01/bn_r_pinky02/bn_r_pinky03/bn_r_pinky04/be_r_pinky01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01/bn_r_ring02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01/bn_r_ring02/bn_r_ring03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01/bn_r_ring02/bn_r_ring03/bn_r_ring04
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01/bn_r_ring02/bn_r_ring03/bn_r_ring04/be_r_ring01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_thumb01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_thumb01/bn_r_thumb02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_thumb01/bn_r_thumb02/bn_r_thumb03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_thumb01/bn_r_thumb02/bn_r_thumb03/be_r_thumb01
+        weight: 1
+      - path: mesh01
+        weight: 1
+      - path: mesh01/Extract6
+        weight: 1
+      - path: mesh01/HandsFW02
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hand_r_Fist01
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: globalControl01
+        weight: 1
+      - path: globalControl01/globalScale01
+        weight: 1
+      - path: globalControl01/globalScale01/controlCurves01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01/bn_r_index02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01/bn_r_index02/bn_r_index03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01/bn_r_index02/bn_r_index03/bn_r_index04
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01/bn_r_index02/bn_r_index03/bn_r_index04/be_r_index01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01/bn_r_middle02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01/bn_r_middle02/bn_r_middle03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01/bn_r_middle02/bn_r_middle03/bn_r_middle04
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01/bn_r_middle02/bn_r_middle03/bn_r_middle04/be_r_middle01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01/bn_r_pinky02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01/bn_r_pinky02/bn_r_pinky03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01/bn_r_pinky02/bn_r_pinky03/bn_r_pinky04
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01/bn_r_pinky02/bn_r_pinky03/bn_r_pinky04/be_r_pinky01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01/bn_r_ring02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01/bn_r_ring02/bn_r_ring03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01/bn_r_ring02/bn_r_ring03/bn_r_ring04
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01/bn_r_ring02/bn_r_ring03/bn_r_ring04/be_r_ring01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_thumb01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_thumb01/bn_r_thumb02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_thumb01/bn_r_thumb02/bn_r_thumb03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_thumb01/bn_r_thumb02/bn_r_thumb03/be_r_thumb01
+        weight: 1
+      - path: mesh01
+        weight: 1
+      - path: mesh01/Extract6
+        weight: 1
+      - path: mesh01/HandsFW02
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hand_r_Grip01
+      takeName: Take 001
+      firstFrame: 20
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: globalControl01
+        weight: 1
+      - path: globalControl01/globalScale01
+        weight: 1
+      - path: globalControl01/globalScale01/controlCurves01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01/bn_r_index02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01/bn_r_index02/bn_r_index03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01/bn_r_index02/bn_r_index03/bn_r_index04
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_index01/bn_r_index02/bn_r_index03/bn_r_index04/be_r_index01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01/bn_r_middle02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01/bn_r_middle02/bn_r_middle03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01/bn_r_middle02/bn_r_middle03/bn_r_middle04
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_middle01/bn_r_middle02/bn_r_middle03/bn_r_middle04/be_r_middle01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01/bn_r_pinky02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01/bn_r_pinky02/bn_r_pinky03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01/bn_r_pinky02/bn_r_pinky03/bn_r_pinky04
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_pinky01/bn_r_pinky02/bn_r_pinky03/bn_r_pinky04/be_r_pinky01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01/bn_r_ring02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01/bn_r_ring02/bn_r_ring03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01/bn_r_ring02/bn_r_ring03/bn_r_ring04
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_ring01/bn_r_ring02/bn_r_ring03/bn_r_ring04/be_r_ring01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_thumb01
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_thumb01/bn_r_thumb02
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_thumb01/bn_r_thumb02/bn_r_thumb03
+        weight: 1
+      - path: globalControl01/globalScale01/joints01/bn_r_wrist01/bn_r_thumb01/bn_r_thumb02/bn_r_thumb03/be_r_thumb01
+        weight: 1
+      - path: mesh01
+        weight: 1
+      - path: mesh01/Extract6
+        weight: 1
+      - path: mesh01/HandsFW02
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
