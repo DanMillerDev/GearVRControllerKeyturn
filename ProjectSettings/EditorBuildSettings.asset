@@ -5,12 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/GearVR.unity
-    guid: f014a226ef142c64090c06cfef467b51
-  - enabled: 0
-    path: Assets/Scenes/GearVR_pizza.unity
-    guid: 67962302981c2314eb5fdf12662f4b1c
   - enabled: 1
-    path: Assets/OVR/Scenes/GearVrControllerTest.unity
-    guid: d56af3aeb2176e7459f753c1c2e2dd97
+    path: Assets/Scenes/GearVR_Keyturn.unity
+    guid: f014a226ef142c64090c06cfef467b51
+  - enabled: 1
+    path: Assets/Scenes/GearVR_Grab.unity
+    guid: de1a554391942eb4a8e817da9a4d2cda
