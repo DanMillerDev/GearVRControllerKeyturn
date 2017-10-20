@@ -16,12 +16,10 @@ This package has a prefab for the Tracked Pose Driver component that was added i
 ### Scenes
 ***GearVR_Keyturn***
 This scene shows off the keyturn method with a red ball that has a sphere collider attached to it  
-[Video](https://drive.google.com/file/d/0B5WA9qR0jNE-dW1yLTYxOTZIdmc/view?usp=sharing)
+
 
 ***GearVR_Grab***
 This scene shows off grab functionality with a hand attached. Grab works by clicking the touchpad on the controller
-(<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Here&#39;s a grab example from my mobile <a href="https://twitter.com/hashtag/VR?src=hash&amp;ref_src=twsrc%5Etfw">#VR</a> talk. Using a key turn rotation to extend a hand and grab objects. <a href="https://t.co/pJb37AvGQ3">pic.twitter.com/pJb37AvGQ3</a></p>&mdash; Dan Miller (@DanMillerDev) <a href="https://twitter.com/DanMillerDev/status/921424012487491585?ref_src=twsrc%5Etfw">October 20, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>)
 
 
 
