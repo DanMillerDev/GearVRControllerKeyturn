@@ -961,7 +961,7 @@ internal static class OVRPlugin
 			}
 
 			// for Older plugin versions, return true is less disruptive?
-			//Debug.LogWarning("ovrp_GetAppHasInputFocus only available on 1.18 and newer plugins ");
+			Debug.LogWarning("ovrp_GetAppHasInputFocus only available on 1.18 and newer plugins ");
 			return true;
 		}
 	}
@@ -983,7 +983,7 @@ internal static class OVRPlugin
 				}
 			}
 
-			//Debug.LogWarning("ovrp_GetAppHasSystemOverlayPresent only available on 1.18 and newer plugins ");
+			Debug.LogWarning("ovrp_GetAppHasSystemOverlayPresent only available on 1.18 and newer plugins ");
 			return false;
 		}
 	}
