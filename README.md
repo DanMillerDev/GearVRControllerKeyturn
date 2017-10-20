@@ -1,7 +1,7 @@
 # GearVRControllerKeyturn
 Open source utility scripts for adding keyturn functionality to the gear VR controller in Unity
 
-***OCULUS UTILTIES ARE REQUIRED***
+## OCULUS UTILTIES ARE REQUIRED
 
 You can download them from https://developer.oculus.com/downloads/package/oculus-utilities-for-unity-5/1.18.1/
 
